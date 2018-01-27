@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="13533" systemVersion="16G1036" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Movie_Data" representedClassName="Movie_Data" syncable="YES" codeGenerationType="class">
+        <attribute name="address" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="age" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cinema_name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="current_location" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="movie_description" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="movie_name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="picture" optional="YES" attributeType="Binary" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Movie_Data" positionX="-63" positionY="-18" width="128" height="165"/>
+    </elements>
+</model>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MOVIE_THEATRE/DisplayViewController.swift"
+            timestampString = "534815232.705358"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2"
+            endingLineNumber = "2"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MOVIE_THEATRE.DisplayViewController.__deallocating_deinit"
+                  moduleName = "MOVIE_THEATRE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macstudent/Downloads/MOVIE_THEATRE/MOVIE_THEATRE/DisplayViewController.swift"
+                  timestampString = "534812968.06584"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MOVIE_THEATRE.DisplayViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; MOVIE_THEATRE.DisplayViewController"
+                  moduleName = "MOVIE_THEATRE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macstudent/Downloads/MOVIE_THEATRE/MOVIE_THEATRE/DisplayViewController.swift"
+                  timestampString = "534812968.068553"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MOVIE_THEATRE.DisplayViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; MOVIE_THEATRE.DisplayViewController"
+                  moduleName = "MOVIE_THEATRE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macstudent/Downloads/MOVIE_THEATRE/MOVIE_THEATRE/DisplayViewController.swift"
+                  timestampString = "534812968.071618"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MOVIE_THEATRE.DisplayViewController.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;MOVIE_THEATRE.DisplayViewController&gt;"
+                  moduleName = "MOVIE_THEATRE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macstudent/Downloads/MOVIE_THEATRE/MOVIE_THEATRE/DisplayViewController.swift"
+                  timestampString = "534812968.074058"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MOVIE_THEATRE.DisplayViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;MOVIE_THEATRE.DisplayViewController&gt;"
+                  moduleName = "MOVIE_THEATRE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macstudent/Downloads/MOVIE_THEATRE/MOVIE_THEATRE/DisplayViewController.swift"
+                  timestampString = "534812968.076254"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "49">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
